@@ -84,8 +84,6 @@ body {
 
 .statup {
   border-bottom: 1px solid #E9E9E9; }
-  .statup img {
-    transform: translate(-500px, 0px); }
   .statup h2 {
     text-align: center; }
   .statup p {
