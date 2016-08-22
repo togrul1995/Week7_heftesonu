@@ -184,7 +184,8 @@
 	</section>
 	<script type="text/javascript">
 		$( ".tab-info" ).click(function() {
-		  $(this).addClass('tab-new').siblings().removeClass('tab-new');
+		  $(".tab-info").removeClass('tab-new');
+		  $(this).addClass('tab-new');
 		});
 	</script>
 

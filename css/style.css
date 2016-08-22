@@ -224,8 +224,8 @@ body {
   border-radius: 5px 0px 0px 5px;
   color: white;
   font-color: white; }
-  .tab-new a {
-    color: white; }
+  .tab-new .tab-title {
+    color: white !important; }
 
 .packages h1 {
   font-size: 45px; }
